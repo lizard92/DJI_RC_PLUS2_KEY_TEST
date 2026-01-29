@@ -1,0 +1,4 @@
+rootProject.name = "MSDKSample"
+include ':app'
+// 移除 UX SDK 模块（不需要地图、动画等功能）
+// include ':android-sdk-v5-uxsdk'
